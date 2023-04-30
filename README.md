@@ -8,4 +8,4 @@ cd Random
 
 ls
 
-Python Random.py
+python Random.py
